@@ -1,1 +1,216 @@
-{"basics":{"name":"Albert Einstein","label":"Scientist","image":"","email":"einstein@example.com","phone":"(912) 123-4567","summary":"A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time","location":{"address":"2712 Broadway St","postalCode":"CA 94115","city":"San Francisco","countryCode":"US","region":"California"},"profiles":[]},"work":[{"name":"Institute for Advanced Study, Princeton University","position":"Professor of Theoretical Physics","location":"Princeton University, NJ","startDate":"1933-01-01","endDate":"1955-01-01","summary":"Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.","highlights":["Relativity","Description 2."]},{"name":"California Institute of Technology","position":"Visiting Professor","location":"Pasadena, California, US","startDate":"1933-01-01","endDate":"1933-01-01","summary":"","highlights":["Description 1.","Description 2."]},{"name":"Kaiser Wilhelm Institute for Physics","position":"Director","location":"Berlin, Germany","startDate":"1917-01-01","endDate":"1933-01-01","summary":"","highlights":[]},{"name":"Karl-Ferdinand University","position":"Professor of Theoretical Physics","location":"Prague, Czechoslovakia","startDate":"1911-01-01","endDate":"1917-01-01","summary":"","highlights":[]},{"name":"University of Zurich","position":"Associate Professor of Theoretical Physics","location":"Zurich, Switzerland","startDate":"1909-01-01","endDate":"1911-01-01","summary":"","highlights":[]}],"volunteer":[{"organization":"People's Climate March","location":"Zurich, Switzerland","position":"Lead Organizer","startDate":"2014-04-01","endDate":"2015-07-01","summary":"Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.","highlights":["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"]}],"education":[{"institution":"University of Zurich","location":"Zurich, Switzerland","url":"https://www.uzh.ch/","area":"Physics","studyType":"PhD","startDate":"1900-01-01","endDate":"1905-01-01","score":"","courses":["Theory of Relativity"],"highlights":["Description 1.","Description 2."]},{"institution":"Eidgenössische Technische Hochschule","location":"Zurich, Switzerland","area":"Physics","studyType":"Federal teaching diploma","startDate":"1896-01-01","endDate":"1900-01-01","score":"","courses":[],"highlights":["Description 1.","Description 2."]}],"awards":[{"title":"Nobel Prize in Physics","date":"1921-11-01","awarder":"Royal Swedish Academy of Sciences","url":"https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/","summary":"The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"},{"title":"Max Planck Medal","date":"2029-01-01","awarder":"German Physical Society","summary":""}],"certificates":[{"name":"Machine Learning","date":"2018-01-01","issuer":"Stanford University","icon":"fa-solid fa-location-dot"},{"name":"Quantum Computing","date":"2018-01-01","issuer":"Stanford University","icon":"fa-solid fa-tag"},{"name":"Quantum Information","date":"2018-01-01","issuer":"Stanford University","icon":"fa-solid fa-envelope"}],"publications":[{"name":"Zur Elektrodynamik bewegter Körper","publisher":"Annalen der Physik","releaseDate":"1905-06-30","url":"https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies","summary":"It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."},{"name":"Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt","publisher":"Annalen der Physik","releaseDate":"1905-03-18","url":"https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt","summary":"In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."},{"name":"Die Grundlage der allgemeinen Relativitätstheorie","publisher":"Annalen der Physik","releaseDate":"1916-03-20","url":"https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie","summary":"The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."}],"skills":[{"name":"Physics","level":"Master","icon":"fa-solid fa-hashtag","keywords":["Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"]}],"languages":[{"language":"German","fluency":"Native speaker","icon":""},{"language":"English","fluency":"Fluent","icon":""}],"interests":[{"name":"Physics","icon":"fa-solid fa-tag","keywords":["Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"]}],"references":[{"name":"Professor John Doe","icon":"fa-solid fa-laptop","reference":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."},{"name":"Professor Jane Smith","icon":"fa-solid fa-thumbtack","reference":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."}],"projects":[{"name":"Quantum Computing","summary":"Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.","highlights":["Quantum Teleportation","Quantum Cryptography"],"startDate":"2018-01-01","endDate":"2018-01-01"}]}
+{
+  "basics": {
+    "name": "Jess Jones",
+    "label": "PhD candidate, Robotics & Autonomous Systems",
+    "image": "",
+    "email": "jess.jones@bristol.ac.uk",
+    "phone": "+44 7876 116588",
+    "url": "https://jessj0nes.github.io",
+    "summary": "PhD candidate at the University of Bristol with a First Class BSc in Computer Science. Interested in deep learning, multi-agent reinforcement learning, and vision-based computing for robotics and trustworthy analysis of online content. Background combines research engineering with leadership in hospitality and an indoor farming start-up.",
+    "location": {
+      "address": "20 Brunswick Street",
+      "postalCode": "BS5 9QN",
+      "city": "Bristol",
+      "countryCode": "GB",
+      "region": "England"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "name": "CASM Technology",
+      "position": "Developer & Researcher",
+      "location": "",
+      "startDate": "2024-02-01",
+      "endDate": "",
+      "summary": "Tools using foundation models and machine learning for analysis of social media, misinformation, and harmful content.",
+      "highlights": [
+        "Research and development on NLP and ML systems for real-world audit and safety workflows."
+      ]
+    },
+    {
+      "name": "University of Bristol — High Performance Computing Group",
+      "position": "Research intern",
+      "location": "Bristol, UK",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-31",
+      "summary": "Eight-week summer internship benchmarking MGCFD-OP2 on Arm architectures.",
+      "highlights": [
+        "Benchmarked ThunderX2, Graviton 2, and Graviton 3.",
+        "Released mgcfd-op2 and babelstream packages to the Spack repository."
+      ]
+    },
+    {
+      "name": "Motion Impossible",
+      "position": "Full-stack software engineer",
+      "location": "",
+      "startDate": "2023-05-01",
+      "endDate": "2023-09-01",
+      "summary": "Architecture and UI for multi-robot camera dolly control.",
+      "highlights": [
+        "Designed system for simultaneous control and interaction of multiple robotic camera dollies.",
+        "Implemented networking for one-to-one, one-to-many, and many-to-many device interactions."
+      ]
+    },
+    {
+      "name": "CASM Technology",
+      "position": "Developer & Researcher (summers)",
+      "location": "",
+      "startDate": "2020-06-01",
+      "endDate": "2021-09-01",
+      "summary": "Summer placements supporting PhD-level NLP research and fact-checking systems.",
+      "highlights": [
+        "Custom entity linking in an automated fact-checking pipeline.",
+        "Research contributing to a UK Cabinet Office report on technologies for operational delivery."
+      ]
+    },
+    {
+      "name": "Herb & Bloom",
+      "position": "Owner & Director",
+      "location": "",
+      "startDate": "2017-01-01",
+      "endDate": "2019-12-31",
+      "summary": "Indoor vertical farming start-up operating as a PLC.",
+      "highlights": [
+        "Established and ran day-to-day operations and management of the business."
+      ]
+    },
+    {
+      "name": "Cubitt House",
+      "position": "Operations Director",
+      "location": "",
+      "startDate": "2014-01-01",
+      "endDate": "2017-12-31",
+      "summary": "Premium pub and hotel group (~£14m turnover).",
+      "highlights": [
+        "Operational delivery across sites, performance, procurement, and strategic planning."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Bristol",
+      "location": "Bristol, UK",
+      "url": "https://www.bristol.ac.uk/",
+      "area": "Robotics & Autonomous Systems",
+      "studyType": "PhD",
+      "startDate": "2023-09-01",
+      "endDate": "2027-09-01",
+      "score": "",
+      "courses": [],
+      "highlights": ["FARSCOPE Centre for Doctoral Training."]
+    },
+    {
+      "institution": "University of Bristol",
+      "location": "Bristol, UK",
+      "url": "https://www.bristol.ac.uk/",
+      "area": "Computer Science",
+      "studyType": "BSc (First Class Honours)",
+      "startDate": "2020-09-01",
+      "endDate": "2023-06-01",
+      "score": "",
+      "courses": [],
+      "highlights": [
+        "Hargrave Prize for best final-year BSc thesis.",
+        "NAG HPC Student Prize (second highest accreditation, HPC programme).",
+        "Netcraft Prize (top ten second-year cohort)."
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Hargrave Prize",
+      "date": "2023-08-01",
+      "awarder": "University of Bristol",
+      "summary": "Best final-year undergraduate thesis on the BSc Computer Science programme."
+    },
+    {
+      "title": "NAG HPC Student Prize",
+      "date": "2023-07-01",
+      "awarder": "University of Bristol / NAG",
+      "summary": "Second highest accreditation on the High Performance Computing programme (2023)."
+    },
+    {
+      "title": "Netcraft Prize",
+      "date": "2022-07-01",
+      "awarder": "University of Bristol",
+      "summary": "Awarded to the top ten second-year Computer Science students (2022)."
+    }
+  ],
+  "certificates": [],
+  "publications": [
+    {
+      "name": "Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot Morphologies",
+      "publisher": "AAMAS 2026",
+      "releaseDate": "2026-01-01",
+      "url": "https://doi.org/10.65109/WTKR8312",
+      "summary": "Evaluates vision-language models for zero-shot affordance inference on non-humanoid robots, including conservative bias with implications for safe deployment."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": ["C", "C++", "C#", "Python", "Java", "Go", "Haskell", "SQL"]
+    },
+    {
+      "name": "Tools & frameworks",
+      "level": "",
+      "keywords": [
+        "PyTorch",
+        "TensorFlow",
+        "OpenMP",
+        "MPI",
+        "OpenCL",
+        "AWS",
+        "Git",
+        "Unity",
+        "Unreal Engine"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "Prof. Sabine Hauert",
+      "reference": "PhD supervisor, University of Bristol — sabine.hauert@bristol.ac.uk"
+    },
+    {
+      "name": "David Weir",
+      "reference": "Director, CASM Technology — davidw@casmtechnology.com"
+    }
+  ],
+  "projects": [
+    {
+      "name": "MARL framework for abstract communication (DOTS swarms)",
+      "summary": "FARSCOPE taught component — multi-agent reinforcement learning for Bristol swarm robotics.",
+      "highlights": [
+        "Simulation framework for efficient MARL experiments on DOTS robots.",
+        "Novel paint-mixing scenario testing communication and interpretation.",
+        "Compared MARL algorithms and network architectures."
+      ],
+      "startDate": "2024-09-01",
+      "endDate": ""
+    },
+    {
+      "name": "3D corallite reconstruction (BSc thesis)",
+      "summary": "Volumetric ViT and topological loss for segmenting coral micro-CT data (Hargrave Prize).",
+      "highlights": [
+        "UNet–ViT pipeline on volumetric inputs; Blender API for interactive 3D analysis."
+      ],
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01"
+    },
+    {
+      "name": "Lattice–Boltzmann HPC (NAG prize project)",
+      "summary": "Distributed CFD mini-apps with OpenMP, MPI, and OpenCL (NAG HPC Student Prize).",
+      "highlights": [
+        "Architecture-specific optimisations, multi-node scaling, GPU offloading."
+      ],
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01"
+    }
+  ]
+}
