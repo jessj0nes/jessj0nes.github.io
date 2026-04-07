@@ -1,7 +1,0 @@
-.idea
-node_modules
-
-# macOS metadata (AppleDouble "._*" files are common on exFAT/network/external drives)
-.DS_Store
-.AppleDouble
-._*
