@@ -9,15 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    20 Brunswick Street, Bristol BS5 9QN<br>
-    +44 7876 116588<br>
+    University of Bristol<br>
+    FARSCOPE CDT<br>
     <a href="mailto:jess.jones@bristol.ac.uk">jess.jones@bristol.ac.uk</a>
 
 selected_papers: true
 social: true
 
 announcements:
-  enabled: false
+  enabled: true
+  limit: 5
 
 latest_posts:
   enabled: false
