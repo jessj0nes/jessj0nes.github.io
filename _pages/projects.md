@@ -1,11 +1,12 @@
 ---
 layout: page
-title: projects
+title: work
 permalink: /projects/
-description: Research projects and industry work.
+description:
+# description: Publications, research projects and industry work.
 nav: true
 nav_order: 3
-display_categories: [research, work]
+display_categories: [Publications, Research, Work]
 horizontal: false
 ---
 

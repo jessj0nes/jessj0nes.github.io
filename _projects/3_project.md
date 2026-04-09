@@ -3,7 +3,7 @@ layout: page
 title: 3D Corallite Reconstruction
 description: Volumetric vision-transformers and topological loss for 3D individual corallite reconstruction (BSc thesis, Hargrave Prize).
 importance: 3
-category: research
+category: Research
 ---
 
 BSc thesis supervised by **Dr. Tilo Burghardt** (May 2023), presenting a novel approach to 3D corallite reconstruction from micro-CT scans of coral colonies. Awarded the **Hargrave Prize** for best undergraduate thesis.

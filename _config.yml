@@ -192,6 +192,9 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - venv/
+  - node_modules/
+  - node_modules/
 keep_files:
   - CNAME
   - .nojekyll

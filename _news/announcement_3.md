@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Awarded the **Hargrave Prize** for best final-year BSc thesis and the **NAG HPC Student Prize** at the University of Bristol.
+Awarded the Hargrave Prize for best final-year BSc thesis and the NAG HPC Student Prize at the University of Bristol.

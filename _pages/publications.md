@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Peer-reviewed publications in reversed chronological order.
-nav: true
+nav: false
 nav_order: 2
 ---
 
@@ -11,7 +11,7 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
 

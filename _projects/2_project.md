@@ -3,7 +3,7 @@ layout: page
 title: MARL for Swarm Communication
 description: A multi-agent reinforcement learning framework for learning abstract communications with DOTS swarm robots.
 importance: 2
-category: research
+category: Research
 ---
 
 Exploratory work during the taught component of the **FARSCOPE CDT** (Sept 2024), building a simulation framework for running efficient MARL experiments for the Bristol swarm group's **DOTS robots**.

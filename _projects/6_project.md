@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Multi-Robot Camera Control
-description: Full-stack system for simultaneous control of multiple robotic camera dollies at Motion Impossible.
+title: Eco-Explorer
+description: Dual-purpose app providing an interactive educational experience for young people, and contributing to open scientific bio-diversity monitoring records. 
 importance: 6
-category: work
+category: Work
 ---
 
-Designed the architecture and user interface of a system to enable **simultaneous control and interaction of multiple robotic camera dollies** at **Motion Impossible** (May–Sept 2023).
-
-- Implementation of a communication network to facilitate **one-to-one, one-to-many, and many-to-many** control-device interactions.
-- Full-stack development spanning real-time control interfaces and robust networking protocols.
+TODO:

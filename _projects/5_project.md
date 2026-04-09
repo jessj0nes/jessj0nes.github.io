@@ -1,13 +1,12 @@
 ---
 layout: page
-title: CASM Technology — NLP & Fact-Checking
-description: NLP research and development for social media analysis, misinformation detection, and fact-checking systems.
+title: CASM Technology — Generative AI Detection and Analysis
+description: Research and development tools to support the surfacing, identification and analysis of misinformation and misrepresentation in social media content through the use of Generative AI tools.
 importance: 5
-category: work
+category: Work
 ---
 
-Ongoing work at **CASM Technology** (2020–present) spanning multiple roles, developing tools that leverage foundation models, deep learning, and other machine learning paradigms for the analysis of social media content.
+Ongoing work leading the GenAI work strand at **CASM Technology** (2025–present), in support of European Commission intiatives to understand social media platforms policy-adherence.
 
-- Development of a customised **entity linking component** within an automated fact-checking system.
-- Research and development on NLP and ML systems for **real-world audit and safety workflows**.
-- Research contributing to a **UK Cabinet Office** report on state-of-the-art technologies for improving operational delivery.
+- Development of an identification, filtering and annotation tool for visual media content contatining Generative AI materials intended for misinformation, misrepresentation and social/electoral disruption.
+- Development of user tooling to support manual verification, analysis and assessment of content surfaced, and deliver data analytics for EC reporting.

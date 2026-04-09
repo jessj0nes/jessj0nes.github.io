@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Robotics & Autonomous Systems · University of Bristol
+subtitle:
 
 profile:
   align: right
@@ -26,9 +26,9 @@ latest_posts:
 
 PhD candidate in Robotics and Autonomous Systems at the University of Bristol (FARSCOPE CDT), with a First Class BSc in Computer Science from University of Bristol. I am interested in deep learning, multi-agent reinforcement learning, and integrating AI as a tool for robotics, and to support the scientific process.
 
-I continue to work as a developer and researcher at CASM Technology on the analysis of online content with specific focus on misinformation through the improper use of Generative AI content.
+I continue to work as a developer and researcher at [CASM Technology](https://www.casmtechnology.com) on the analysis of online content with specific focus on misinformation through the improper use of Generative AI content.
 
-I am a member of the [PROTEAS](https://www.proteasgroup.com) group, exploring new opportunities to develop autonomous systems for positive environmental and social impact 
+As an active a member of the [PROTEAS](https://www.proteasgroup.com) group, I enjoy exploring new opportunities to develop autonomous systems for positive environmental and social impact with a current focus on the development of software to support the education of young children with respect to local habitats. 
 
 Before moving into tech and research full time, I held leadership roles in hospitality and a vertical-farming start-up, which shaped how I approach teamwork and delivery.
 

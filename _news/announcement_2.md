@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started PhD in **Robotics & Autonomous Systems** at the University of Bristol, supervised by **Prof. Sabine Hauert, OBE** and **Prof. Raul Santos-Rodriguez** through the FARSCOPE CDT.
+Started PhD in Robotics & Autonomous Systems at the University of Bristol, supervised by Prof. Sabine Hauert, OBE and Prof. Raul Santos-Rodriguez through the FARSCOPE CDT.
