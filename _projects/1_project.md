@@ -15,3 +15,4 @@ Key contributions:
 - Identifies an inherent **conservative bias** in model inference — an important observation for systems design and operational safety.
 
 **DOI:** [10.65109/WTKR8312](https://doi.org/10.65109/WTKR8312)
+**arXiv pre-print** [arXiv:2604.19509](https://arxiv.org/abs/2604.19509)
