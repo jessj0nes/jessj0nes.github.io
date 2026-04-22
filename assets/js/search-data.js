@@ -29,7 +29,7 @@ ninja.data = [{
           section: "News",},{id: "news-started-phd-in-robotics-amp-amp-autonomous-systems-at-the-university-of-bristol-supervised-by-prof-sabine-hauert-obe-and-prof-raul-santos-rodriguez-through-the-farscope-cdt",
           title: 'Started PhD in Robotics &amp;amp;amp; Autonomous Systems at the University of Bristol, supervised...',
           description: "",
-          section: "News",},{id: "news-paper-accepted-at-aamas-2026-assessing-vlm-driven-semantic-affordance-inference-for-non-humanoid-robot-morphologies-doi",
+          section: "News",},{id: "news-paper-accepted-at-aamas-2026-assessing-vlm-driven-semantic-affordance-inference-for-non-humanoid-robot-morphologies-arxiv-preprint-doi",
           title: 'Paper accepted at AAMAS 2026: Assessing VLM-Driven Semantic Affordance Inference for Non-Humanoid Robot...',
           description: "",
           section: "News",},{id: "projects-vlm-affordance-inference",
